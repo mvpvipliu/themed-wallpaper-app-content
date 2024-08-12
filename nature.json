@@ -1,12 +1,12 @@
 [
   {
     "id": "nature1",
-    "thumbnailUrl": "/themed-wallpaper-app-content/wallpapers/nature/thumb_nature1.jpg",
-    "fullUrl": "/themed-wallpaper-app-content/wallpapers/nature/full_nature1.jpg"
+    "thumbnailUrl": "/wallpapers/nature/thumb_nature1.jpg",
+    "fullUrl": "/wallpapers/nature/full_nature1.jpg"
   },
   {
     "id": "nature2",
-    "thumbnailUrl": "/themed-wallpaper-app-content/wallpapers/nature/thumb_nature2.jpg",
-    "fullUrl": "/themed-wallpaper-app-content/wallpapers/nature/full_nature2.jpg"
+    "thumbnailUrl": "/wallpapers/nature/thumb_nature2.jpg",
+    "fullUrl": "/wallpapers/nature/full_nature2.jpg"
   }
 ]
