@@ -1,1 +1,12 @@
-
+[
+  {
+    "id": "nature1",
+    "thumbnailUrl": "/wallpapers/nature/thumb_nature1.jpg",
+    "fullUrl": "/wallpapers/nature/full_nature1.jpg"
+  },
+  {
+    "id": "nature2",
+    "thumbnailUrl": "/wallpapers/nature/thumb_nature2.jpg",
+    "fullUrl": "/wallpapers/nature/full_nature2.jpg"
+  }
+]
